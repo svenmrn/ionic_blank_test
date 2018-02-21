@@ -9,7 +9,7 @@ export class HomePage {
 
   constructor(public navCtrl: NavController) {
       //conflict comment 
-    //comment
+    //commented out
   }
 
 }
